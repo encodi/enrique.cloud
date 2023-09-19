@@ -3,10 +3,9 @@ import React from "react";
 const personalInfoContent = [
   { meta: "first name", metaInfo: "Enrique" },
   { meta: "last name", metaInfo: "Coronado" },
-  { meta: "Age", metaInfo: "41 Years" },
-  { meta: "Nationality", metaInfo: "Mexican" },
+  // { meta: "Age", metaInfo: "41 Years" },
   { meta: "Available", metaInfo: "Yes" },
-  { meta: "Address", metaInfo: "Mexico" },
+  { meta: "Country", metaInfo: "Mexico" },
   { meta: "phone", metaInfo: "+529996491746" },
   { meta: "Email", metaInfo: "encodari@gmail.com" },
   // { meta: "Skype", metaInfo: " enrique" },

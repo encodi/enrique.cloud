@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
-import heroImg from "../../assets/img/hero/dark.jpg";
-import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
+import heroImg from "../../assets/img/hero/me_nobg.png";
+import heroImgMobile from "../../assets/img/hero/me_nobg.png";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../../components/about/index";
 
@@ -13,7 +13,14 @@ const heroContent = {
   heroDescriptions: `I'm a Mexican based full-stack developer focused on
   crafting clean & user‑friendly experiences, I am passionate about
   building excellent software that improves the lives of those
-  around me.`,
+  around me. I was that little kid that opened all type of devices just to 
+  understand how they worked, 
+  i consider myself a person that likes to think out of the box and a researcher. 
+  I have had the opportunity to work in a great variety of projects at different platforms 
+  and architectures, allowing me to be always learning by myself in different types of environments and technologies 
+  both in the back-end and front-end side, this prepared me with good capabilities to work in new technologies and with different types of teams.
+  If I don't know something I find a way and learn it. I think that would be my major skill, 
+  my adaptability and my love to learn new things and find a good use to them.`,
   heroBtn: "more about me",
 };
 
