@@ -157,6 +157,36 @@ const HomeDark = () => {
           {/* Blog Content Ends */}
         </div>
       </Tabs>
+      <footer>
+    <div className="go_purchase">
+      <h6 data-aos="fade-up" data-aos-duration="1200">
+        You are at the right place if you are looking for a good candidate to help you complete your awesome project.
+      </h6> 
+      <h6 data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
+        enrique.cloud was build by me using react, and hosted in AWS with a ci/cd pulling from my personal github account{" "}
+      </h6>
+      <div data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+        {/* <a
+          className="button"
+          href="https://themeforest.net/user/ib-themes/portfolio"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <span className="button-text"> Purchase Now</span>
+          <span className="button-icon fa fa-arrow-right"></span>
+        </a> */}
+      </div>
+    </div>
+
+    <div className="text-center footer_copyright">
+      <h6>enrique.cloud - resumé</h6>
+      <h5>
+        &copy; {new Date().getFullYear()} {" "}
+        <span className="heart">&#10084;</span> by{" me"}
+        {" "}
+      </h5>
+    </div>
+  </footer>
     </div>
   );
 };
