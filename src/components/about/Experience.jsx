@@ -2,6 +2,12 @@ import React from "react";
 
 const experienceContent = [
   {
+    year: "2023",
+    position: "Tech Lead Backend",
+    compnayName: "Ksquare - Internal KSHire v2",
+    details: `Experience working as a tech lead for the backend for an internal project to update and release a new version of kshire v2, an application for management of personal, candidates, jobs posted. Done with an internal custom library using nodejs as a base and postgressql as database, we hosted this in AWS using docker with a ci/cd setup in AWS as well.`,
+  },
+  {
     year: "2022 - Current",
     position: "Backend Developer",
     compnayName: "Ksquare - Miami Baptist Health Hospital",
