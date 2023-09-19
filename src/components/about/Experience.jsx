@@ -19,6 +19,7 @@ const experienceContent = [
     compnayName: "Ksquare - BSA",
     details: `Experience working together with the back-end core-api team for BSA creating a microservices backend architecture, using NodeJS, hapijs, and mssql to be used by all of their applications and services.`,
   },
+  {
     year: "2015 - 2018",
     position: "Full-Stack Developer",
     compnayName: "Accedo.tv",
