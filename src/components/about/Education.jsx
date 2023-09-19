@@ -2,26 +2,53 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2015",
-    degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "",
+    degree: "Software Engineer",
+    institute: "FMAT - Universidad Autonoma de Yucatan",
+    details: ``,
   },
   {
-    year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
+    year: "",
+    degree: "Physics Engineer",
+    institute: "FI - Universidad Autonoma de Yucatan",
+    details: ``,
   },
   {
-    year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "enrique.cloud HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    year: "Currently",
+    degree: "Professional Certificate in Computer Science for Artificial Intelligence",
+    institute: "EDX - Harvard University",
+    details: ``,
   },
+  {
+    year: "",
+    degree: "NodeJS Application Developer",
+    institute: "OpenJS Foundation",
+    details: ``,
+  },
+  {
+    year: "",
+    degree: "Certified in Dynamic Web Development (PHP, MySQL, HTML, CSS)",
+    institute: "Universidad Autonoma de Yucatan",
+    details: ""
+  },
+  {
+    year: "",
+    degree: "Course: Introduction to Hardware and Software Security",
+    institute: "Universidad Autonoma de Yucatan",
+    details: ""
+  },
+  {
+    year: "",
+    degree: "Course: Tools and concepts of interactive system design",
+    institute: "Universidad Politecnica de San Luis Potosi",
+    details: ""
+  },
+  {
+    year: "",
+    degree: "Course: Introduction to usability of interactive systems",
+    institute: "Universidad Politecnica de San Luis Potosi",
+    details: ""
+  }
 ];
 
 const Education = () => {

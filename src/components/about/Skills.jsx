@@ -1,14 +1,30 @@
 import React from "react";
 
 const skillsContent = [
-  { skillClass: "p25", skillPercent: "25", skillName: "HTML" },
-  { skillClass: "p89", skillPercent: "89", skillName: "JAVASCRIPT" },
-  { skillClass: "p70", skillPercent: "70", skillName: "CSS" },
-  { skillClass: "p66", skillPercent: "66", skillName: "PHP" },
-  { skillClass: "p95", skillPercent: "95", skillName: "WORDPRESS" },
-  { skillClass: "p50", skillPercent: "50", skillName: "JQUERY" },
-  { skillClass: "p65", skillPercent: "65", skillName: "ANGULAR" },
-  { skillClass: "p45", skillPercent: "45", skillName: "REACT" },
+  { skillClass: "p100", skillPercent: "100", skillName: "JAVASCRIPT" },
+  { skillClass: "p100", skillPercent: "100", skillName: "HTML" },
+  { skillClass: "p100", skillPercent: "100", skillName: "CSS" },
+  { skillClass: "p100", skillPercent: "100", skillName: "REACT" },
+  { skillClass: "p100", skillPercent: "100", skillName: "NODEJS" },
+  { skillClass: "p100", skillPercent: "100", skillName: "TYPESCRIPT" },
+  { skillClass: "p100", skillPercent: "100", skillName: "WORDPRESS" },
+  { skillClass: "p100", skillPercent: "100", skillName: "PHP" },
+  { skillClass: "p100", skillPercent: "100", skillName: "SHELL SCRIPTS" },
+  { skillClass: "p80", skillPercent: "80", skillName: "DOCKER & KUBERNETES" },
+  { skillClass: "p80", skillPercent: "80", skillName: "AWS SERVICES" },
+  { skillClass: "p80", skillPercent: "80", skillName: "MSSQL" },
+  { skillClass: "p80", skillPercent: "80", skillName: "MONGODB" },
+  { skillClass: "p80", skillPercent: "80", skillName: "DYNAMODB" },
+  { skillClass: "p80", skillPercent: "80", skillName: "MYSQL" },
+  { skillClass: "p80", skillPercent: "80", skillName: "REDIS" },
+  { skillClass: "p70", skillPercent: "80", skillName: "GIT" },
+  { skillClass: "p70", skillPercent: "70", skillName: "CORONA SDK" },
+  { skillClass: "p70", skillPercent: "70", skillName: "ROKU BRIGHTSCRIPT" },
+  { skillClass: "p70", skillPercent: "70", skillName: "LINUX" },
+  { skillClass: "p50", skillPercent: "50", skillName: "PYTHON" },
+  { skillClass: "p50", skillPercent: "50", skillName: "C++" },
+  { skillClass: "p30", skillPercent: "30", skillName: "UNITY SDK" },
+  { skillClass: "p30", skillPercent: "30", skillName: "UNREAL ENGINE" },
 ];
 
 const Skills = () => {
