@@ -9,8 +9,8 @@ const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
   heroTitleName: "enrique c",
-  heroDesignation: "full-stack developer",
-  heroDescriptions: `I'm a Mexican based full-stack developer focused on
+  heroDesignation: "Backend developer",
+  heroDescriptions: `I'm a Mexican based backend developer focused on
   crafting clean & user‑friendly experiences, I am passionate about
   building excellent software that improves the lives of those
   around me. I was that little kid that opened all type of devices just to 
