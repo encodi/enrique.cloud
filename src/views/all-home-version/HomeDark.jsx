@@ -163,7 +163,7 @@ const HomeDark = () => {
         You are at the right place if you are looking for a good candidate to help you complete your awesome project.
       </h6> 
       <h6 data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
-        enrique.cloud was build by me using react, and hosted in AWS with a ci/cd pulling from my personal github account{" "}
+        enrique.cloud was build by me using react, hosted in AWS with using github actions{" "}
       </h6>
       <div data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
         {/* <a
